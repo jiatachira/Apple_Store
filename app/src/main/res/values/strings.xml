@@ -1,3 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Apple_Store</string>
+    <string name="app_name">Apple Store</string>
+    <string name="store_logo_desc">Apple Store Logo</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="sign_in_continue">Sign in to continue</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="admin_login_only">Admin Login Only</string>
 </resources>
+
